@@ -196,5 +196,5 @@ flowchart LR
 
 ## Contact
 
-**Abdoulaye DJIGO (Bou)**
+**Abdoulaye DJIGO**
 DEV DATA P8 · Orange Digital Center · Sonatel Académie · Dakar, Sénégal
